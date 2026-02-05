@@ -11,7 +11,7 @@ This project is a single-page resume website built using only HTML as part of a 
 ## How to Run
 1. Download or clone the repository
 2. Open `index.html` in any modern web browser
-
+3. web link -> https://html-resume-pearl.vercel.app/
 ## Demo
 Below is a screenshot of the final output:
 
