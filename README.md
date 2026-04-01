@@ -7,7 +7,7 @@ This project is a single-page resume website built using only HTML as part of a 
 - Sections for About, Skills, Experience, Projects, Education, and Contact
 - Uses proper semantic HTML tags
 - No CSS used (as per assignment rules)
-- always think simple 
+- always think simples
 
 ## How to Run
 1. Download or clone the repository 
